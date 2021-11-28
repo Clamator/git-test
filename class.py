@@ -1,2 +1,4 @@
 class Radio:
-    pass
+    def __init__(self):
+        self.turn_on = True
+
